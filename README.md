@@ -1,5 +1,5 @@
 # WMAT
-WMAT is automatic tool for testing webmail accounts. Support SSL pages, have automatic generator for default passwords. XML driven patterns.
+WMAT is automatic tool for testing webmail accounts. Support SSL pages, have automatic generator for default passwords. XML driven patterns. Included on BackTrack 4.
 
 Web Mail Auth Tool
 
