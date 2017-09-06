@@ -1,0 +1,11 @@
+<xml>
+    <username>username</username>
+    <password>password</password>
+    <action_url>path</action_url>
+    <success>recognise_this</success>
+    <method>post</method>
+    <useragent></useragent>
+    <referer></referer>
+    <additional_fields>[amp]some1=test1[amp]some2=test2</additional_fields>
+    <author>ivanm@security-net.biz</author>
+</xml>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <username>username</username>
+    <password>password</password>
+    <action_url>/CookieAuth.dll?Logon</action_url>
+    <success>frmain</success>
+    <method>post</method>
+    <useragent></useragent>
+    <referer></referer>
+    <additional_fields>[amp]curl=Z2Fdefault.asp[amp]formdir=1</additional_fields>
+    <author>ivanm@security-net.biz</author>
+</data>

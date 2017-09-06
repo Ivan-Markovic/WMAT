@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <username>kerio_username</username>
+    <password>kerio_password</password>
+    <action_url>/webmail/dologin.php</action_url>
+    <success>get_data.php</success>
+    <method>post</method>
+    <useragent></useragent>
+    <referer></referer>
+    <additional_fields>[amp]fwg=internal[amp]kerio_mode=full</additional_fields>
+    <author>ivanm@security-net.biz</author>
+</data>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+    <username>login_username</username>
+    <password>secretkey</password>
+    <action_url>/src/redirect.php</action_url>
+    <success>left_main.php</success>
+    <method>post</method>
+    <useragent></useragent>
+    <referer></referer>
+    <additional_fields></additional_fields>
+    <author>ivanm@security-net.biz</author>
+</data>
